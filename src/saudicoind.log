@@ -1,0 +1,4 @@
+2018-May-20 08:49:31.354256 INFO [daemon] saudicoin v1.1.1.1()
+2018-May-20 08:49:31.354478 INFO [daemon] Module folder: ./saudicoind
+2018-May-20 08:49:31.354655 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2018-May-20 08:49:31.354769 ERROR [currency] Failed to generate genesis block
